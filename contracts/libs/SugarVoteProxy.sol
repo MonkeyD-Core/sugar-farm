@@ -96,7 +96,7 @@ interface IBEP20 {
 }
 
 
-contract PancakeVoterProxy {
+contract SugarVoterProxy {
     // SYRUP
     address public constant votes = 0x009cF7bC57584b7998236eff51b98A168DceA9B0;
 
